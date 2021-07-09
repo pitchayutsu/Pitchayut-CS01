@@ -1,2 +1,3 @@
 A=input()
 print(A)
+    
